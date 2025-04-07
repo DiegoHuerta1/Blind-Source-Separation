@@ -32,3 +32,12 @@ Evaluation tools:
 * Visual inspection
 
 * Estimation error of the mixing matrix
+
+
+References:
+
+* Independencia Bmt y Separación de Señales en Independencias No Conmutativas. Saul Rogelio Mendoza Jacobo
+* Free Probability and Random Matrices. J. A. Mingo and R. Speicher. 
+* Free Component Analysis: Theory, Algorithms & Applications. Hao Wu and Raj Rao Nadakuditi.
+
+
