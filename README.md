@@ -5,29 +5,30 @@ This repository contains implementations of blind source separation (BSS) techni
 
 Implemented Methods:
 
-ICA – Independent Component Analysis
+* ICA – Independent Component Analysis
 
-FCA – Free Component Analysis
+* FCA – Free Component Analysis
 
-BCA – Boolean Component Analysis
+* BCA – Boolean Component Analysis
 
-OVFCA – Operator-Valued Free Component Analysis
+* OVFCA – Operator-Valued Free Component Analysis
 
-Mixed Cumulant Computation – For assessing dependencies between random variables
+* Mixed Cumulant Computation – For assessing dependencies between random variables
 
 Features:
-Modular and well-documented code for applying and testing each method
+
+* Modular and well-documented code for applying and testing each method
 
 Examples for separating:
 
-Random vectors
+* Random vectors
 
-Images
+* Images
 
-Videos
+* Videos
 
 Evaluation tools:
 
-Visual inspection
+* Visual inspection
 
-Estimation error of the mixing matrix
+* Estimation error of the mixing matrix
